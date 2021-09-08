@@ -1,7 +1,6 @@
 # Traffic_CKHS
 # 自主學習計畫-塞車模型
-#建中 
-
+***
 - 資源: 
 	- Coursera 申請助學金(9/23知道結果)
 		- Michigan State University-> **Infographics**
@@ -26,7 +25,6 @@
 
 ### 流程
 
-```
 ### 分周計畫
 第一周: Coursera Google Data Analytics
 第二周: Coursera Data with Python
