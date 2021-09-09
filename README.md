@@ -3,9 +3,9 @@
 ***
 - 資源: 
 	- Coursera 申請助學金(9/23知道結果)
-		- Michigan State University-> **Infographics**
-		- Google -> **Data Analytics**
-		-  University of Michigan -> **Data With Python** 
+		- Michigan State University-> '**Infographics**'
+		- Google -> '**Data Analytics**'
+		-  University of Michigan -> '**Data With Python**' 
 	- 英語資源: 
 		- [calmcode.io](https://calmcode.io/) 
 		- [pythonprogramming.net](https://pythonprogramming.net/)
