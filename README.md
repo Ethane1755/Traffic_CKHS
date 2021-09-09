@@ -26,9 +26,9 @@
 ### 流程
 
 ### 分周計畫
-第一周: Coursera Google Data Analytics
-第二周: Coursera Data with Python
-第三周: 找資料、匯入資料
-第四周: 找出資料(SQL)、開始找規律、建模
-第五周: 建模、製作圖表
+第一周: Coursera Google Data Analytics  
+第二周: Coursera Data with Python  
+第三周: 找資料、匯入資料  
+第四周: 找出資料(SQL)、開始找規律、建模  
+第五周: 建模、製作圖表  
 第六周: 補足不齊、匯出
