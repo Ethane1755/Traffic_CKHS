@@ -23,8 +23,6 @@
 ### 目標
 利用SQL與Python語言進行分析，並利用各國資料數據建立塞車模型，預測未來塞車趨勢，利用圖表輸出。
 
-### 流程
-
 ### 分周計畫
 第一周: Coursera Google Data Analytics  
 第二周: Coursera Data with Python  
