@@ -5,7 +5,7 @@ import numpy as np
 df = pd.read_csv('D:/Database/建中/traffic_CKHS/csv/多年pcu比較.csv', encoding='ansi')
 
 rows = (df['方向'] == '合計')
-columns = ['106PCU','時間','107PCU','108PCU','109PCU']
+columns = ['105PCU','106PCU','時間','107PCU','108PCU','109PCU']
 result = df.loc[rows, columns].head(10)
 result.set_index('時間', inplace=True)
 print(result)
