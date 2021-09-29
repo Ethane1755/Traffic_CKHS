@@ -18,4 +18,5 @@ chart = result.plot.bar(title='南海重慶南路口年度交通狀況',  #圖�
                     color=('#277da1','#577590','#4d908e','#43aa8b','#90be6d','#f9c74f','#f9844a','#f8961e','#f3722c','#f94144'))  # 圖表大小
 plt.xticks(rotation='horizontal')
 plt.text(0.09,6700,'PCU=小客車單位(換算)')
+plt.savefig('allbar.png',dpi=600)
 plt.show()

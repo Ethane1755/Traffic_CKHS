@@ -21,5 +21,5 @@ chart = result.plot(title='南海重慶南路口年度交通狀況',  #圖表標
 plt.xticks(rotation='horizontal')
 plt.grid(True, ls='--',color='#f0f0f0')
 plt.text(0.5,6700,'PCU=小客車單位(換算)')
-plt.savefig('test.png',dpi=600)
+plt.savefig('allline.png',dpi=600)
 plt.show()
