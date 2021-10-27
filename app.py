@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('多年來之比較.csv' , encoding='ansi')
+df = pd.read_csv('csv/多年來之比較.csv' , encoding='ansi')
 
 rows = (df['方向'] == '南海路往西') & (df['轉向'] == '直行')
 columns = ['時間', 'PCU']
