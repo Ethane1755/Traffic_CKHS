@@ -17,7 +17,7 @@ ax=result.plot(kind='bar', #圖表類型
             figsize=(10, 5),
             ax=axes[0,0]# 圖表大小
             ) 
-
+ax.xaxis.set_ticks([])
 
 result.plot(kind='line',
             color='r', #圖表類型
@@ -38,7 +38,6 @@ result.plot(kind='line',
             ax=axes[1,0],
             grid=True
             ) 
-plt.xticks(rotation=45)
 
 ax1=result.plot(kind='bar', #圖表類型
 		    title='test',  #圖表標題
@@ -47,8 +46,8 @@ ax1=result.plot(kind='bar', #圖表類型
             legend =True,  # 是否顯示圖例
             figsize=(10, 5),
             ax=axes[1,1],# 圖表大小
-            ) 
-ax.xaxis.set_ticks([])
+            )
 ax1.xaxis.set_ticks([])
+
 plt.tight_layout()
 plt.show()
